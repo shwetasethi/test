@@ -1,0 +1,153 @@
+BookingID,BookingDate,BookingStatus,CheckInDate,No of Nights,NumberOfRooms,NumberOfAdults,Meal plan,Total booking Amount,Customer Nationality,Customer Age,City,Country,is_mobile
+5,28-10-2018,0,01-02-2019,6,1,1,Room Only,5120.55,Indian,34,Delhi,India,Mobile
+16,28-10-2018,1,08-03-2019,6,1,1,Room Only,11107.28,Indian,25,Delhi,India,Desktop
+17,28-10-2018,1,21-03-2019,3,1,1,Breakfast Buffet,9953.64,Indian,24,Delhi,India,Mobile
+18,28-10-2018,1,09-03-2019,4,1,1,Breakfast,4690.87,Indian,24,Noida,India,Mobile
+21,28-10-2018,0,09-03-2019,4,1,1,ROOM ONLY,8771.52,Indian,25,Gurgoan,India,Mobile
+25,29-11-2018,1,14-02-2019,3,1,1,BED AND BREAKFAST,8653.64,Indian,25,Gurgoan,India,Desktop
+26,29-10-2018,1,14-02-2019,3,1,1,Breakfast,8653.64,Indian,24,Gurgoan,India,Mobile
+48,30-10-2018,1,08-02-2019,1,1,1,ROOM ONLY,7517.88,Indian,25,Gurgoan,India,Mobile
+49,30-10-2018,1,03-05-2019,1,1,1,ROOM ONLY,7515.69,Indian,29,Gurgoan,India,Mobile
+52,30-10-2018,1,01-03-2019,1,1,1,ROOM ONLY,7417.88,Indian,25,Gurgoan,India,Desktop
+56,31-10-2018,1,04-04-2019,1,1,1,BED AND BREAKFAST,7616.98,Indian,25,Gurgoan,India,Mobile
+75,02-11-2018,1,21-11-2018,1,1,1,ROOM ONLY,8230.2,Indian,58,Mumbai,India,Mobile
+202,27-11-2018,1,27-11-2018,1,1,1,Room Only,1656.5,Indian,19,Mumbai,India,Desktop
+203,27-11-2018,1,30-03-2019,1,1,1,Continental Breakfast,3780.88,Indian,43,Delhi,India,Mobile
+204,27-11-2018,1,30-03-2019,1,1,1,Room Only,4613.4,Indian,45,Pune ,India,Mobile
+278,10-12-2018,1,20-03-2019,12,1,1,Room Only,5561.16,American,25,Montreal,US,Mobile
+301,13-12-2018,1,10-08-2019,1,1,1,ROOM ONLY,9531.14,Britisher,50,London,UK,Mobile
+315,16-12-2018,1,30-12-2018,6,1,2,Room Only,2529.25,Indian,60,Delhi,India,Desktop
+319,17-12-2018,0,19-12-2018,1,1,1,Room Only,15550,Indian,25,Doha,Qatar,Mobile
+385,24-12-2018,1,15-02-2019,10,1,1,Room Only,1689.98,Indian,25,Vancouver,Canada,Mobile
+386,25-12-2018,1,15-02-2019,10,1,1,Room Only,2179.8,Canadian,20,Vancouver,Canada,Mobile
+422,29-12-2018,1,23-01-2019,3,2,2,BED AND BREAKFAST,2111.04,UAE,25,Dubai,UAE,Mobile
+488,03-10-2019,0,03-10-2019,1,1,1,BED AND BREAKFAST,6686.17,Chinese,28,Wuhan,China,Desktop
+489,03-10-2019,0,03-10-2019,1,1,1,Room Only,8568.52,Chinese,45,Beijing,China,Mobile
+490,03-01-2019,0,03-01-2019,1,1,1,BED AND BREAKFAST,1183.15,Chinese,40,Beijing,China,Mobile
+491,03-01-2019,0,03-01-2019,1,1,1,BED AND BREAKFAST,3225.45,Indian,75,Bangalore,India,Mobile
+492,03-01-2019,0,03-01-2019,1,1,1,BED AND BREAKFAST,1448.26,Indian,25,Bangalore,India,Mobile
+494,03-01-2019,0,03-01-2019,1,1,1,Continental Breakfast,2403.86,Indian,32,Bangalore,India,Mobile
+495,03-01-2019,0,04-01-2019,1,1,2,Room Only,1548.75,Indian,48,Bangalore,India,Desktop
+548,05-01-2019,0,23-01-2019,1,1,1,Continental Breakfast,2665.77,Indian,30,Chennai,India,Mobile
+669,08-01-2019,0,09-01-2019,1,1,1,BED AND BREAKFAST,1241.84,Indian,21,Delhi,India,Mobile
+670,08-01-2019,0,09-01-2019,1,1,1,Room Only,1019.64,Indian,25,Pune ,India,Mobile
+671,08-01-2019,0,09-01-2019,1,1,1,Room Only,3896.74,Indian,55,Mumbai,India,Desktop
+672,08-01-2019,0,09-01-2019,1,1,1,ROOM ONLY,3896.74,Indian,24,Mumbai,India,Mobile
+673,08-01-2019,0,09-01-2019,1,1,1,ROOM ONLY,3896.74,Indian,24,Delhi,India,Mobile
+790,13-01-2019,1,15-11-2019,1,1,1,ROOM ONLY,2210.73,Indian,25,Mumbai,India,Mobile
+825,13-01-2019,0,14-01-2019,1,1,1,ROOM ONLY,1784.39,Indian,43,Delhi,India,Mobile
+826,13-01-2019,0,14-01-2019,1,1,1,BED AND BREAKFAST,1659.26,Indian,18,Mumbai,India,Mobile
+1140,29-01-2019,0,01-02-2019,6,1,1,BED AND BREAKFAST,25095.46,Indian,25,Mumbai,India,Mobile
+1201,01-11-2019,0,03-11-2019,1,1,1,ROOM ONLY,1136.17,Indonesian,33,Bandar Lampung,Indonesia,Mobile
+1202,01-02-2019,0,02-02-2019,1,1,1,Room Only,2727.51,Indonesian,33,Mataram,Indonesia,Mobile
+1292,05-02-2019,0,08-02-2019,1,1,1,ROOM ONLY,7146.59,Indonesian,27,Medan,Indonesia,Mobile
+1311,06-02-2019,0,06-02-2019,1,1,2,BED AND BREAKFAST,1204.32,Indian,29,Bangalore,India,Desktop
+1312,06-02-2019,0,06-02-2019,1,1,2,BED AND BREAKFAST,1028.11,Indian,30,Bangalore,India,Mobile
+1377,09-02-2019,0,12-02-2019,3,1,2,Room Only,1131.64,Indian,57,Bangalore,India,Desktop
+1388,10-02-2019,0,11-02-2019,1,1,1,BED AND BREAKFAST,1186.79,Indian,24,Bangalore,India,Mobile
+1495,14-02-2019,0,01-04-2019,27,1,1,Room Only,3581.01,Indian,43,Delhi,India,Desktop
+1528,16-02-2019,0,16-02-2019,1,1,1,Room Only,6497.51,Chinese,36,Beijing,China,Desktop
+1674,22-02-2019,0,05-04-2019,1,1,1,BED AND BREAKFAST,2500,Indian,67,Delhi,India,Desktop
+1682,23-02-2019,0,24-02-2019,2,1,1,Room Only,1585.68,Indian,23,Delhi,India,Desktop
+1711,24-02-2019,0,24-02-2019,1,1,1,Room Only,3580.57,Chinese,31,Wuhan,China,Mobile
+1712,24-02-2019,0,25-02-2019,1,1,1,BED AND BREAKFAST,3582.2,Chinese,25,Wuhan,China,Desktop
+1737,25-02-2019,0,25-02-2019,1,1,2,BED AND BREAKFAST,4744.33,Chinese,23,Wuhan,China,Mobile
+1747,25-02-2019,0,15-03-2019,1,1,1,BED AND BREAKFAST,1594.12,Indian,60,Shimla,India,Mobile
+1869,04-12-2019,0,01-05-2019,3,1,2,BED AND BREAKFAST,1651,UAE,28,Dubai,UAE,Mobile
+1945,07-03-2019,0,21-09-2019,1,1,1,Breakfast,1635.1,France,22,Paris,France,Desktop
+1993,11-03-2019,0,01-04-2019,14,1,1,Room Only,7646.5,Cyprus,24,Paphos,Cyprus,Mobile
+2041,13-03-2019,0,14-03-2019,1,1,1,Breakfast,4130.05,UAE,21,Dubai,UAE,Mobile
+2042,13-03-2019,0,14-03-2019,1,1,1,BED AND BREAKFAST,1113.2,UAE,25,Dubai,UAE,Mobile
+2096,15-03-2019,0,13-04-2019,5,1,2,Room Only,6346.41,UAE,25,Dubai,UAE,Mobile
+2097,15-03-2019,0,13-04-2019,5,1,2,BED AND BREAKFAST,6346.41,UAE,28,Dubai,UAE,Desktop
+2146,16-03-2019,0,18-03-2019,1,1,1,BED AND BREAKFAST,8315.13,Indian,25,Shimla,India,Desktop
+2201,18-03-2019,0,25-03-2019,4,1,1,BED AND BREAKFAST,7301.8,Indian,24,Shimla,India,Mobile
+2208,19-03-2019,0,25-10-2019,1,1,1,BED AND BREAKFAST,2240.4,Britisher,32,London,UK,Desktop
+2211,19-03-2019,0,25-10-2019,1,1,1,Room Only,7935.79,Britisher,25,London,UK,Desktop
+2250,20-03-2019,0,16-04-2019,27,1,2,ROOM ONLY,1521.46,Turkey,27,Istanbul,Turkey,Desktop
+2251,20-03-2019,0,16-04-2019,27,1,2,Room Only,8035.52,Turkey,25,Istanbul,Turkey,Desktop
+2253,20-03-2019,0,16-04-2019,27,1,2,Room Only,5655.06,Turkey,28,Istanbul,Turkey,Desktop
+2254,20-03-2019,0,22-04-2019,24,1,1,Room Only,1768.56,Turkey,34,Istanbul,Turkey,Mobile
+2255,20-03-2019,0,22-04-2019,24,1,1,Room Only,1277.52,Turkey,39,Istanbul,Turkey,Mobile
+2256,20-03-2019,0,22-04-2019,24,1,1,Breakfast,1277.52,Turkey,49,Istanbul,Turkey,Desktop
+2257,20-03-2019,0,22-04-2019,24,1,1,Breakfast,4470,Turkey,55,Istanbul,Turkey,Mobile
+2295,21-03-2018,0,25-04-2018,19,1,1,Room Only,3573.67,Turkey,53,Istanbul,Turkey,Mobile
+2454,27-03-2018,0,12-04-2018,20,1,2,Room Only,7968.6,Thailand,54,Bangkok,Thailand,Mobile
+2688,03-04-2019,0,03-04-2019,1,1,2,Breakfast,1474.31,Indian,58,Delhi,India,Desktop
+2749,04-04-2019,0,05-04-2019,1,1,1,Room Only,5462.57,Indonesian,59,Bali,Indonesia,Mobile
+2886,08-04-2019,0,10-04-2019,2,1,1,Room Only,1131.85,Jordan,24,Amman,Jordan,Mobile
+2928,10-04-2019,0,15-05-2019,10,1,1,Room Only,2359.86,France,34,Paris,France,Mobile
+3074,14-04-2019,0,14-04-2019,1,1,1,BED AND BREAKFAST,6790.74,Indian,23,Delhi,India,Mobile
+3081,14-04-2019,0,14-04-2019,1,1,1,Room Only,1704.79,Indonesian,27,Jakarta,Indonesia,Desktop
+3091,14-04-2019,0,15-04-2019,1,1,1,BED AND BREAKFAST,2824.98,Indonesian,25,Bandung,Indonesia,Mobile
+3100,14-04-2019,0,14-04-2019,1,1,1,Room Only,2549.51,Indonesian,25,Jakarta,Indonesia,Desktop
+3101,14-04-2019,0,14-04-2019,1,1,1,Breakfast,3350.93,Indonesian,23,Jakarta,Indonesia,Mobile
+3151,16-04-2019,0,16-04-2019,1,1,1,Room Only,1704.23,Indonesian,27,Bandung,Indonesia,Desktop
+3153,16-04-2019,0,19-04-2019,1,1,1,BED AND BREAKFAST,5606.23,Indonesian,24,Bandung,Indonesia,Mobile
+3184,17-04-2019,0,10-05-2019,10,1,2,BED AND BREAKFAST,3575.5,France,33,Paris,France,Mobile
+3267,19-04-2019,0,20-04-2019,2,2,2,BED AND BREAKFAST,4495.6,Canadian,25,Mahdia,Canada,Desktop
+3268,19-04-2019,0,20-04-2019,2,2,2,BED AND BREAKFAST,4495.6,Canadian,55,Mahdia,Canada,Mobile
+3269,19-04-2019,0,20-04-2019,2,2,2,Room Only,5414.64,Canadian,33,Mahdia,Canada,Desktop
+3421,23-04-2019,0,27-04-2019,3,1,1,Room Only,8319.92,Chinese,25,Beijing,China,Mobile
+3423,23-04-2019,0,27-04-2019,1,1,1,BED AND BREAKFAST,3370.02,Indonesian,55,Jakarta,Indonesia,Desktop
+3546,26-04-2019,0,26-04-2019,4,1,1,Room Only,2480,Qatar,28,Doha,Qatar,Mobile
+3644,28-04-2019,0,13-05-2019,16,1,1,Room Only,5586.44,Cambodia,25,Phnom Penh,Cambodia,Mobile
+3645,28-04-2019,0,11-05-2019,19,2,2,BED AND BREAKFAST,1532.92,Cambodia,28,Phnom Penh,Cambodia,Desktop
+3786,01-05-2019,0,14-05-2019,15,1,2,Room Only,5891.7,Cambodia,25,Phnom Penh,Cambodia,Mobile
+3788,01-05-2019,0,16-05-2019,14,1,1,Breakfast,4889.48,Cambodia,32,Phnom Penh,Cambodia,Desktop
+3789,01-05-2019,0,16-05-2019,14,1,1,Room Only,4889.48,Cambodia,30,Phnom Penh,Cambodia,Mobile
+3926,06-05-2019,0,14-06-2019,5,1,2,Room Only,1782.5,Indian,27,Mumbai,India,Mobile
+3927,06-05-2019,0,07-05-2019,1,1,2,Room Only,6355.57,Chinese,25,Beijing,China,Desktop
+3928,06-05-2019,0,07-05-2019,1,1,2,Breakfast,3531.4,Chinese,25,Beijing,China,Mobile
+3929,06-05-2019,0,07-05-2019,1,1,2,Room Only,3520.4,Chinese,33,Beijing,China,Mobile
+4015,09-05-2019,0,15-06-2019,6,1,1,Room Only,2389.45,Indian,33,Bangalore,India,Desktop
+4087,11-05-2019,0,15-06-2019,15,1,1,BED AND BREAKFAST,7435.93,Britisher,33,London,UK,Desktop
+4126,12-05-2019,0,15-05-2019,1,1,1,BED AND BREAKFAST,6901.19,Indonesian,44,Bandar Lampung,Indonesia,Mobile
+4127,12-05-2019,0,15-05-2019,1,1,2,Breakfast,8749.71,Indonesian,33,Bandar Lampung,Indonesia,Desktop
+4160,13-05-2019,0,13-05-2019,1,1,2,Breakfast,9127.9,Indian,33,Pune ,India,Mobile
+4260,15-05-2019,0,16-05-2019,1,1,1,BED AND BREAKFAST,3441.22,Indonesian,45,Jakarta,Indonesia,Desktop
+4265,15-05-2019,0,16-05-2019,2,1,1,ROOM ONLY,2666.4,Indonesian,33,Jakarta,Indonesia,Mobile
+4266,15-05-2019,0,16-05-2019,2,1,1,BED AND BREAKFAST,2666.4,Indonesian,25,Jakarta,Indonesia,Desktop
+4329,16-05-2019,0,16-05-2019,1,1,1,BED AND BREAKFAST,6010.64,Indonesian,27,Makassar,Indonesia,Mobile
+4332,16-05-2019,0,17-05-2019,1,1,2,Breakfast,8148.84,Indonesian,22,Makassar,Indonesia,Desktop
+4333,16-05-2019,0,17-05-2019,1,1,1,Room Only,1871.69,Indonesian,28,Makassar,Indonesia,Mobile
+4499,20-05-2019,0,21-05-2019,1,1,2,BED AND BREAKFAST,7747.84,Indonesian,25,Medan,Indonesia,Desktop
+4500,20-05-2019,0,21-05-2019,1,1,2,BED AND BREAKFAST,1015.15,Indonesian,27,Medan,Indonesia,Desktop
+4834,28-05-2019,0,30-05-2019,16,1,2,BED AND BREAKFAST,5586.44,Cambodia,28,Phnom Penh,Cambodia,Mobile
+4836,28-05-2019,0,30-05-2019,16,1,1,BED AND BREAKFAST,5586.44,Cambodia,24,Phnom Penh,Cambodia,Mobile
+4837,28-05-2019,0,30-05-2019,16,1,1,BED AND BREAKFAST,5586.44,Cambodia,37,Phnom Penh,Cambodia,Desktop
+4838,28-05-2019,0,30-05-2019,16,1,1,BED AND BREAKFAST,5586.44,Cambodia,24,Phnom Penh,Cambodia,Mobile
+4839,28-05-2019,0,30-05-2019,16,1,2,BED AND BREAKFAST,5586.44,Cambodia,24,Phnom Penh,Cambodia,Desktop
+4840,28-05-2019,0,30-05-2019,16,1,1,Room Only,5586.44,Cambodia,24,Phnom Penh,Cambodia,Desktop
+4954,31-05-2019,0,31-05-2019,20,1,1,Room Only,14192.2,Indian,48,Delhi,India,Mobile
+5125,06-06-2019,0,06-06-2019,2,1,1,Room Only,5945.34,Indonesian,24,Bandar Lampung,Indonesia,Mobile
+5132,07-06-2018,0,12-06-2018,4,1,1,Room Only,6466.07,Singapore,24,Singapore,Singapore,Desktop
+5211,10-06-2018,0,10-06-2018,2,1,1,BED AND BREAKFAST,2537.4,Indian,24,Delhi,India,Mobile
+5250,11-06-2019,0,15-07-2019,5,1,2,Room Only,1778.28,Netherland,33,Amsterdam,Netherland,Mobile
+5401,15-06-2019,0,16-06-2019,1,1,1,BED AND BREAKFAST,1704.41,Indonesian,33,Jakarta,Indonesia,Desktop
+5443,16-06-2019,0,19-06-2019,1,1,1,Room Only,1704.48,Indonesian,23,Jakarta,Indonesia,Mobile
+5444,16-06-2019,0,19-06-2019,1,1,1,Room Only,1805.36,Thailand,66,Bangkok,Thailand,Desktop
+5445,16-06-2019,0,19-06-2019,1,1,1,BED AND BREAKFAST,1825.36,Thailand,56,Bangkok,Thailand,Mobile
+5525,18-06-2019,0,19-06-2019,1,1,1,BED AND BREAKFAST,1390.86,Indian,54,Delhi,India,Desktop
+5526,18-06-2019,0,19-06-2019,1,1,1,BED AND BREAKFAST,1391.86,Indian,66,Mumbai,India,Mobile
+5603,19-06-2019,0,21-06-2019,2,2,4,Room Only,2970.98,Indian,45,Bangalore,India,Desktop
+5644,20-06-2019,0,21-06-2019,1,1,1,Room Only,978.54,Indian,45,Mumbai,India,Mobile
+5645,20-06-2019,0,21-06-2019,1,1,1,BED AND BREAKFAST,978.54,Indian,23,Mumbai,India,Desktop
+5796,25-06-2019,0,25-06-2019,1,1,2,BED AND BREAKFAST,3033.91,Indonesian,36,Medan,Indonesia,Mobile
+5844,25-06-2019,0,16-07-2019,5,1,1,BED AND BREAKFAST,2855.06,Singapore,25,Singapore,Singapore,Mobile
+6991,26-07-2019,0,26-07-2019,1,1,1,Breakfast,1021.06,Indonesian,44,Makassar,Indonesia,Mobile
+6992,26-07-2019,0,08-09-2019,6,1,2,Breakfast,5023.15,Netherland,30,Amsterdam,Netherland,Mobile
+6993,26-07-2019,0,08-09-2019,6,1,2,BED AND BREAKFAST,5023.15,Netherland,18,Amsterdam,Netherland,Desktop
+7041,28-07-2019,0,30-07-2019,1,1,1,BED AND BREAKFAST,1543.04,Indonesian,45,Medan,Indonesia,Desktop
+7535,11-08-2019,0,12-08-2019,1,1,1,BED AND BREAKFAST,4221.34,Indonesian,40,Makassar,Indonesia,Desktop
+7541,11-08-2019,0,13-08-2019,1,1,1,Room Only,9930.24,Indonesian,40,Makassar,Indonesia,Mobile
+7542,11-08-2019,0,12-08-2019,1,1,1,BED AND BREAKFAST,7468.52,Indonesian,40,Makassar,Indonesia,Mobile
+7589,14-08-2019,0,14-08-2019,2,1,2,Room Only,2395.86,Indian,35,Delhi,India,Desktop
+7634,15-08-2019,0,16-08-2019,1,1,2,BED AND BREAKFAST,5785.57,Indian,40,Delhi,India,Mobile
+7886,25-08-2019,0,11-11-2019,9,1,2,BED AND BREAKFAST,7523.6,Indian,55,Delhi,India,Mobile
+8235,03-09-2019,0,05-09-2019,1,1,2,BED AND BREAKFAST,7849,Indonesian,40,Makassar,Indonesia,Desktop
+8237,03-09-2019,0,04-09-2019,1,1,1,BED AND BREAKFAST,1555.94,Indonesian,60,Makassar,Indonesia,Desktop
+8238,03-09-2019,0,04-09-2019,1,1,1,Room Only,7146.62,Indonesian,85,Makassar,Indonesia,Desktop
+8239,17-12-2019,0,19-12-2018,1,1,1,Room Only,15550,Indian,25,Doha,Qatar,Mobile
+8240,24-12-2019,1,27-12-2019,2,1,1,BED AND BREAKFAST,1689.98,Indian,25,Vancouver,Canada,Mobile
+8241,25-12-2019,1,27-12-2019,2,1,1,BED AND BREAKFAST,2179.8,Canadian,20,Vancouver,Canada,Mobile
