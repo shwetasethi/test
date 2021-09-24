@@ -1,0 +1,1111 @@
+is_canceled,lead_time,total stay,meal,market_segment,adr
+0,342,0,BB,Direct,0
+0,737,0,BB,Direct,0
+0,7,1,BB,Direct,75
+0,13,1,BB,Corporate,75
+0,14,2,BB,Online TA,98
+0,14,2,BB,Online TA,98
+0,0,2,BB,Direct,107
+0,9,2,FB,Direct,103
+1,85,3,BB,Online TA,82
+1,75,3,HB,Offline TA/TO,105.5
+1,23,4,BB,Online TA,123
+0,35,4,HB,Online TA,145
+0,68,4,BB,Online TA,97
+0,18,4,HB,Online TA,154.77
+0,37,4,BB,Online TA,94.71
+0,68,4,BB,Online TA,97
+0,37,4,BB,Offline TA/TO,97.5
+0,12,1,BB,Online TA,88.2
+0,0,1,BB,Corporate,107.42
+0,7,4,BB,Direct,153
+0,37,5,BB,Online TA,97.29
+0,72,6,BB,Direct,84.67
+0,72,6,BB,Direct,84.67
+0,72,6,BB,Direct,99.67
+0,127,7,HB,Offline TA/TO,94.95
+0,78,7,BB,Offline TA/TO,63.6
+0,48,7,BB,Offline TA/TO,79.5
+1,60,7,BB,Online TA,107
+0,77,7,BB,Online TA,94
+0,99,7,BB,Online TA,87.3
+0,118,14,BB,Direct,62
+0,95,15,BB,Offline TA/TO,63.86
+1,96,10,BB,Direct,108.3
+0,69,6,BB,Offline TA/TO,65.5
+1,45,4,BB,Online TA,108.8
+1,40,4,BB,Online TA,108.8
+0,15,4,BB,Online TA,98
+0,36,4,BB,Online TA,108.8
+1,43,4,BB,Online TA,108.8
+0,70,5,HB,Direct,137
+1,45,5,BB,Online TA,117.81
+0,45,5,BB,Offline TA/TO,79.5
+0,16,5,BB,Direct,123
+0,70,5,HB,Direct,137
+0,107,7,BB,Online TA,110.7
+1,47,7,BB,Online TA,153
+0,96,7,BB,Offline TA/TO,58.95
+0,113,7,BB,Offline TA/TO,82.88
+0,90,7,HB,Offline TA/TO,82.35
+0,50,7,HB,Online TA,119.35
+0,113,7,BB,Offline TA/TO,67.58
+0,93,11,BB,Offline TA/TO,56.01
+0,76,14,BB,Offline TA/TO,110.7
+0,3,1,BB,Online TA,88.2
+0,1,1,BB,Online TA,147
+0,1,1,BB,Direct,107
+0,0,1,BB,Direct,147
+0,0,1,BB,Online TA,117.9
+0,0,1,BB,Direct,123
+0,14,2,BB,Online TA,98
+0,10,2,BB,Online TA,117.81
+0,5,2,BB,Online TA,135
+0,17,3,BB,Direct,133
+0,93,3,BB,Offline TA/TO,58.95
+1,3,3,HB,Online TA,136.33
+0,10,2,BB,Online TA,153
+0,3,2,BB,Online TA,110.5
+0,51,2,BB,Online TA,97
+1,71,2,BB,Offline TA/TO,110.3
+1,63,2,BB,Online TA,82
+1,62,2,BB,Online TA,97
+1,101,2,BB,Online TA,73.8
+0,2,2,HB,Offline TA/TO,91.5
+0,15,2,BB,Online TA,114.5
+1,51,2,BB,Online TA,110.3
+0,3,3,BB,Online TA,90.9
+1,48,3,BB,Online TA,123
+0,2,4,BB,Online TA,122
+0,72,4,BB,Offline TA/TO,110.7
+0,81,8,BB,Offline TA/TO,85.86
+0,99,9,BB,Offline TA/TO,58.95
+1,368,10,BB,Offline TA/TO,55.68
+0,364,10,BB,Offline TA/TO,55.68
+1,81,10,HB,Direct,124
+0,99,10,HB,Offline TA/TO,111.15
+0,324,14,HB,Offline TA/TO,134.73
+0,69,14,BB,Online TA,92.45
+1,79,21,BB,Offline TA/TO,108.73
+0,12,1,BB,Online TA,73.8
+0,9,1,BB,Online TA,98
+0,1,1,BB,Online TA,131
+0,21,1,BB,Online TA,123
+0,9,1,BB,Online TA,94.71
+0,109,1,BB,Online TA,123
+1,109,2,BB,Online TA,123
+1,72,2,BB,Online TA,73.8
+1,63,7,BB,Online TA,117
+0,63,7,HB,Offline TA/TO,196.54
+0,101,7,BB,Online TA,99.3
+0,102,7,BB,Direct,90.95
+0,4,3,BB,Direct,92.67
+0,98,3,BB,Offline TA/TO,71.55
+0,92,6,BB,Offline TA/TO,96.49
+0,95,6,BB,Online TA,85.8
+0,102,7,BB,Online TA,96.3
+1,26,7,BB,Online TA,163
+1,73,7,HB,Direct,172
+1,102,7,BB,Online TA,110.7
+0,115,7,BB,Offline TA/TO,58.95
+0,102,7,BB,Online TA,73.8
+0,86,7,BB,Online TA,97
+0,78,7,HB,Online TA,139
+0,52,7,BB,Online TA,67.24
+0,29,8,BB,Online TA,116.5
+1,101,8,BB,Online TA,96.3
+0,109,8,BB,Online TA,123
+0,92,10,BB,Offline TA/TO,71.55
+0,92,10,BB,Offline TA/TO,71.55
+0,79,10,HB,Direct,149
+0,2,1,BB,Online TA,163
+0,30,1,BB,Offline TA/TO,79.5
+1,51,1,HB,Online TA,105
+1,36,1,BB,Direct,123
+1,73,1,BB,Online TA,73.8
+1,33,1,BB,Online TA,113
+0,32,1,FB,Complementary,0
+0,8,1,BB,Online TA,123
+0,100,2,BB,Online TA,73.8
+0,1,2,BB,Online TA,114.5
+0,100,2,BB,Online TA,73.8
+0,100,2,BB,Online TA,73.8
+0,9,1,BB,Online TA,88.2
+1,5,1,BB,Online TA,97
+0,0,1,BB,Online TA,85.1
+0,9,1,BB,Online TA,89
+0,2,1,BB,Online TA,80.1
+0,2,1,BB,Online TA,98
+0,9,1,BB,Online TA,101
+1,5,1,BB,Online TA,97
+0,2,1,BB,Direct,167
+0,44,2,HB,Online TA,225
+0,80,2,BB,Online TA,97
+0,97,4,BB,Online TA,87.3
+0,109,5,BB,Offline TA/TO,85.59
+0,30,5,BB,Online TA,123
+0,64,5,BB,Online TA,107
+0,39,6,BB,Online TA,163
+0,90,6,BB,Online TA,82
+1,34,6,BB,Online TA,163
+1,93,7,HB,Offline TA/TO,105.5
+0,97,7,HB,Direct,164.2
+0,29,7,BB,Online TA,97.29
+1,101,7,HB,Online TA,114
+0,27,7,BB,Offline TA/TO,98.4
+0,8,9,BB,Online TA,175
+0,82,10,BB,Offline TA/TO,63.6
+0,94,10,BB,Direct,124.45
+0,110,11,BB,Offline TA/TO,110.7
+0,96,14,HB,Offline TA/TO,74.07
+0,79,14,HB,Offline TA/TO,134.1
+0,115,5,BB,Online TA,167
+0,111,4,BB,Online TA,123
+0,51,4,BB,Online TA,117.81
+0,94,4,BB,Offline TA/TO,171.32
+0,81,4,HB,Direct,210
+0,84,4,BB,Online TA,97
+0,51,4,BB,Online TA,117.81
+0,111,0,BB,Online TA,0
+0,0,0,BB,Direct,0
+0,2,1,BB,Direct,131
+0,7,2,BB,Online TA,98
+0,98,2,BB,Online TA,87.3
+0,95,3,BB,Online TA,97
+1,48,4,HB,Online TA,167
+0,66,4,HB,Offline TA/TO,91.5
+0,104,4,BB,Online TA,73.8
+0,28,5,BB,Online TA,123
+0,34,5,HB,Direct,175
+0,98,6,HB,Online TA,117.8
+0,104,6,BB,Online TA,117.63
+0,68,7,HB,Online TA,185
+1,86,7,HB,Offline TA/TO,71
+0,258,7,BB,Offline TA/TO,47.25
+0,111,8,HB,Online TA,151
+1,94,10,BB,Online TA,87.3
+0,112,10,BB,Offline TA/TO,120.6
+0,100,10,BB,Offline TA/TO,63.86
+0,33,10,HB,Direct,157.1
+0,97,10,HB,Offline TA/TO,91.37
+0,80,11,BB,Direct,73
+0,90,14,BB,Offline TA/TO,110.7
+0,111,14,BB,Offline TA/TO,93.6
+0,65,7,BB,Offline TA/TO,83.5
+1,67,2,BB,Online TA,73.8
+0,55,3,BB,Online TA,82
+0,21,3,HB,Direct,185.5
+0,8,0,BB,Direct,0
+0,8,0,BB,Online TA,0
+0,0,1,BB,Online TA,109.8
+0,0,1,HB,Direct,195
+0,0,1,BB,Online TA,109.8
+0,8,4,BB,Online TA,193
+0,66,4,BB,Online TA,97
+0,88,4,HB,Offline TA/TO,150
+0,0,4,BB,Direct,98
+1,43,5,HB,Offline TA/TO,91.5
+1,88,7,HB,Online TA,139
+0,54,7,BB,Offline TA/TO,79.5
+1,292,7,BB,Offline TA/TO,47.25
+0,112,14,HB,Offline TA/TO,126.65
+0,68,3,BB,Online TA,107
+0,7,4,BB,Online TA,131
+0,1,4,BB,Online TA,131
+1,113,4,BB,Online TA,123
+0,5,4,BB,Online TA,146
+0,83,4,BB,Offline TA/TO,110.7
+1,105,4,BB,Online TA,73.8
+0,0,1,BB,Offline TA/TO,61
+1,1,1,BB,Corporate,104.72
+1,1,1,BB,Corporate,104.72
+0,1,2,BB,Corporate,104.72
+1,102,5,BB,Direct,66.42
+0,113,6,BB,Direct,77.96
+1,280,7,HB,Offline TA/TO,112
+0,96,7,BB,Online TA,107
+0,394,7,HB,Offline TA/TO,89.68
+0,33,7,HB,Online TA,155
+0,82,8,BB,Direct,112
+0,100,9,BB,Online TA,130.1
+0,100,9,BB,Online TA,100.1
+0,17,1,BB,Online TA,123
+0,68,2,BB,Direct,124
+0,12,2,BB,Direct,146
+1,77,3,BB,Direct,97
+1,24,3,BB,Online TA,123
+1,44,3,BB,Online TA,153
+0,78,3,BB,Online TA,82
+1,17,4,BB,Online TA,105.08
+1,103,4,BB,Online TA,65.42
+0,16,4,BB,Direct,98
+0,14,5,BB,Online TA,75.46
+0,77,5,BB,Offline TA/TO,65.5
+0,90,7,BB,Offline TA/TO,90.95
+0,90,7,BB,Offline TA/TO,93.6
+0,90,7,BB,Offline TA/TO,119.25
+0,366,7,HB,Offline TA/TO,134.73
+0,249,7,HB,Online TA,112
+1,69,8,HB,Online TA,118.13
+0,10,1,BB,Direct,131
+0,22,2,BB,Online TA,88.2
+0,91,2,BB,Online TA,73.8
+0,23,2,BB,Online TA,98
+0,11,2,BB,Online TA,110.5
+0,3,2,BB,Online TA,131
+0,13,2,HB,Online TA,185
+0,108,2,BB,Online TA,87.3
+0,91,2,BB,Online TA,73.8
+0,37,3,BB,Online TA,120
+0,21,3,BB,Direct,98
+0,106,3,BB,Online TA,96.3
+0,30,4,FB,Direct,197
+0,30,4,FB,Direct,197
+1,51,5,BB,Online TA,123
+0,79,5,BB,Online TA,82
+0,21,5,HB,Direct,165
+0,35,5,BB,Online TA,149.4
+0,78,7,HB,Online TA,106.84
+0,31,7,HB,Direct,161
+0,78,7,HB,Online TA,134.43
+0,78,7,HB,Online TA,144.43
+0,44,7,HB,Offline TA/TO,152
+0,34,7,HB,Online TA,125.54
+0,87,7,FB,Offline TA/TO,133.83
+0,11,8,BB,Direct,159.75
+0,115,9,BB,Online TA,120.6
+0,86,10,BB,Online TA,112.2
+0,41,11,BB,Online TA,110.6
+0,32,13,BB,Online TA,105.9
+0,34,7,HB,Online TA,95.27
+0,34,7,HB,Online TA,108.83
+1,100,5,HB,Offline TA/TO,153.96
+0,44,5,BB,Online TA,120.6
+0,304,6,BB,Direct,90.67
+1,36,6,BB,Online TA,126.67
+0,117,6,HB,Offline TA/TO,144.4
+0,70,6,BB,Online TA,99.5
+0,110,7,BB,Direct,139.4
+1,109,7,BB,Online TA,73.8
+0,33,4,BB,Online TA,89.97
+0,33,4,BB,Online TA,123
+0,33,4,BB,Online TA,123
+0,0,1,BB,Direct,123
+0,0,1,HB,Online TA,144.9
+0,0,1,BB,Direct,153
+0,0,1,BB,Online TA,131
+0,84,2,HB,Corporate,100
+0,71,2,BB,Offline TA/TO,65.5
+0,16,2,BB,Online TA,123
+0,54,3,BB,Online TA,123
+0,8,3,BB,Online TA,131
+0,36,7,BB,Offline TA/TO,104.68
+0,40,7,HB,Online TA,166
+1,59,8,BB,Online TA,111.25
+0,79,8,HB,Direct,213.75
+0,32,10,HB,Online TA,178
+0,110,7,BB,Direct,113.9
+0,33,7,BB,Online TA,129.29
+0,53,1,BB,Online TA,153
+0,2,1,BB,Online TA,98
+0,8,6,BB,Online TA,169
+1,72,6,BB,Online TA,93
+0,12,7,BB,Online TA,132.29
+0,48,7,BB,Offline TA/TO,123
+0,90,7,FB,Offline TA/TO,117.22
+0,34,7,HB,Offline TA/TO,149
+1,58,7,BB,Direct,164.57
+0,59,7,BB,Offline TA/TO,107
+0,90,7,FB,Offline TA/TO,117.22
+0,116,7,BB,Offline TA/TO,119.25
+0,31,7,BB,Offline TA/TO,123
+1,51,7,HB,Online TA,105.71
+0,48,7,BB,Offline TA/TO,123
+0,59,7,BB,Online TA,144.43
+1,97,8,BB,Online TA,126
+0,12,9,HB,Online TA,148.3
+0,64,9,BB,Online TA,125.22
+0,31,11,BB,Offline TA/TO,123
+0,59,11,HB,Offline TA/TO,130
+1,55,14,BB,Offline TA/TO,133.16
+0,81,7,BB,Offline TA/TO,78.84
+0,1,1,BB,Online TA,80.1
+0,34,2,BB,Online TA,193
+0,13,2,BB,Online TA,88.2
+0,40,2,BB,Online TA,90.71
+0,1,2,BB,Online TA,114.5
+0,34,2,BB,Online TA,120.2
+0,88,3,BB,Offline TA/TO,79.5
+0,9,3,BB,Online TA,117.9
+1,24,3,HB,Online TA,128
+0,97,4,BB,Offline TA/TO,90.95
+0,60,4,BB,Online TA,107
+0,100,4,BB,Direct,130.05
+0,50,5,BB,Offline TA/TO,123
+1,47,5,BB,Online TA,103.8
+0,8,5,BB,Online TA,196
+0,34,5,HB,Online TA,149.4
+0,47,7,BB,Online TA,175.71
+0,115,7,HB,Offline TA/TO,119.7
+1,79,7,BB,Online TA,100.86
+0,91,7,BB,Online TA,100.86
+0,98,2,BB,Online TA,82
+0,109,2,BB,Online TA,73.8
+0,0,2,BB,Online TA,117.9
+0,98,2,BB,Online TA,82
+0,0,2,BB,Direct,150
+0,9,2,HB,Online TA,161
+0,62,2,BB,Online TA,64
+1,45,2,BB,Online TA,123
+0,42,3,BB,Online TA,110
+0,54,3,BB,Online TA,88.2
+0,51,3,HB,Online TA,130
+0,54,3,BB,Online TA,88.2
+0,58,3,HB,Direct,165
+0,0,4,BB,Corporate,114
+1,60,5,BB,Offline TA/TO,79.5
+1,321,5,HB,Direct,132.8
+0,40,5,BB,Direct,120
+1,51,5,BB,Offline TA/TO,79.5
+0,38,5,BB,Direct,120
+1,75,5,HB,Online TA,144.2
+0,101,5,BB,Online TA,107.2
+1,42,5,BB,Online TA,120
+0,40,5,BB,Direct,120
+0,109,5,HB,Direct,163.8
+1,81,6,BB,Online TA,98.5
+1,98,6,HB,Online TA,130.5
+0,32,6,HB,Offline TA/TO,153
+0,72,6,BB,Online TA,98.5
+0,115,7,HB,Offline TA/TO,119.7
+0,118,7,FB,Direct,184.6
+0,81,7,HB,Direct,181.22
+1,95,7,BB,Online TA,100.86
+0,16,1,BB,Online TA,100.2
+0,56,4,HB,Online TA,134.25
+0,88,8,BB,Offline TA/TO,96.3
+0,41,9,BB,Online TA,83.09
+1,40,1,BB,Offline TA/TO,105.5
+0,1,1,BB,Corporate,134
+0,1,1,BB,Online TA,8
+0,1,2,BB,Online TA,146
+1,76,4,BB,Online TA,126
+0,0,4,BB,Online TA,111.15
+0,49,5,BB,Online TA,136.2
+0,76,5,BB,Direct,101.8
+0,73,6,HB,Direct,127
+0,73,6,HB,Direct,161.5
+0,317,6,HB,Direct,230.67
+1,112,7,BB,Online TA,65.7
+0,6,7,HB,Online TA,180
+0,8,7,HB,Online TA,168.57
+1,96,9,BB,Offline TA/TO,107.67
+1,96,9,BB,Online TA,96.9
+0,99,9,BB,Direct,107
+0,66,11,BB,Online TA,73.41
+0,38,14,HB,Online TA,109.9
+0,38,14,HB,Online TA,109.9
+0,113,15,BB,Direct,187.5
+0,0,1,BB,Corporate,134
+1,62,3,HB,Offline TA/TO,91.5
+1,39,3,BB,Online TA,132.44
+0,37,6,HB,Online TA,106.9
+1,58,7,BB,Online TA,131.86
+0,37,8,BB,Online TA,216.13
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,83,9,BB,Online TA,190.33
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,94
+1,57,2,FB,Groups,0
+0,57,2,FB,Groups,98.75
+0,57,2,FB,Groups,148.23
+0,57,2,FB,Groups,94
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,148.23
+0,57,2,FB,Groups,0
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,107
+0,57,2,FB,Groups,98.75
+1,66,2,BB,Online TA,195
+0,13,2,BB,Online TA,120.6
+0,50,1,BB,Online TA,123.2
+1,48,1,BB,Direct,112
+1,0,1,BB,Online TA,123.2
+0,7,1,BB,Online TA,169
+0,0,2,BB,Direct,198
+1,66,2,BB,Online TA,103.5
+0,13,2,BB,Online TA,135.6
+0,66,2,BB,Online TA,103.5
+0,10,3,BB,Direct,184
+1,10,3,BB,Direct,134
+1,58,3,HB,Online TA,147
+1,17,3,HB,Online TA,151.33
+0,19,3,BB,Online TA,121.33
+0,10,5,BB,Direct,150.2
+1,12,5,BB,Direct,139
+0,10,5,BB,Direct,150.2
+0,63,4,BB,Online TA,75.44
+1,35,4,BB,Online TA,135
+0,113,6,HB,Online TA,166
+1,35,6,BB,Online TA,135
+0,68,7,HB,Offline TA/TO,130
+0,113,8,BB,Offline TA/TO,96.3
+0,21,14,HB,Direct,160
+0,6,0,BB,Online TA,0
+0,7,2,BB,Direct,127.25
+0,17,2,BB,Online TA,164
+0,1,2,BB,Online TA,144.5
+0,2,2,BB,Offline TA/TO,112
+1,15,2,BB,Online TA,134
+1,7,2,BB,Direct,127.25
+0,11,2,BB,Online TA,155.5
+1,6,2,BB,Online TA,110.5
+0,1,2,BB,Direct,144.5
+0,1,2,BB,Direct,144.5
+0,48,2,BB,Offline TA/TO,123
+0,15,2,BB,Online TA,120.6
+1,3,2,BB,Offline TA/TO,107.6
+1,23,3,BB,Online TA,120.6
+0,53,5,BB,Offline TA/TO,107
+0,53,5,BB,Offline TA/TO,133.75
+0,94,5,BB,Direct,103.5
+0,64,5,BB,Offline TA/TO,84.8
+0,53,5,BB,Offline TA/TO,107
+0,53,5,BB,Offline TA/TO,107
+0,64,5,BB,Offline TA/TO,84.8
+0,53,5,BB,Offline TA/TO,107
+0,24,5,BB,Direct,195
+0,24,6,BB,Online TA,164
+0,23,7,BB,Direct,195
+0,53,7,BB,Online TA,125
+1,23,7,BB,Direct,195
+0,90,7,HB,Online TA,132.3
+0,79,7,BB,Online TA,145
+0,43,7,BB,Offline TA/TO,92
+0,90,7,HB,Online TA,132.3
+0,65,8,HB,Online TA,147
+0,65,8,HB,Online TA,167
+0,99,8,BB,Direct,210
+0,25,10,HB,Direct,194.9
+0,92,3,BB,Online TA,103.5
+0,91,3,BB,Online TA,118.5
+0,38,3,HB,Online TA,192
+0,6,3,BB,Offline TA/TO,128.27
+0,38,3,BB,Online TA,135
+0,13,3,BB,Online TA,126.3
+1,32,3,BB,Online TA,154
+0,315,3,BB,Offline TA/TO,96.3
+0,8,3,BB,Online TA,126.3
+1,0,1,BB,Direct,136
+0,91,3,BB,Online TA,118.5
+0,3,3,BB,Online TA,116.33
+0,9,4,BB,Direct,164
+0,19,3,BB,Online TA,147.67
+0,25,6,BB,Direct,145
+0,108,6,HB,Online TA,147
+1,37,6,HB,Online TA,168.3
+0,45,7,HB,Online TA,167
+0,64,7,BB,Direct,137.75
+0,44,4,BB,Direct,145
+0,26,4,BB,Online TA,132.6
+1,96,4,HB,Online TA,147
+1,123,4,BB,Online TA,157
+1,42,5,BB,Online TA,210
+0,59,5,BB,Offline TA/TO,132.5
+0,28,5,BB,Online TA,98.02
+0,106,5,BB,Direct,126
+0,1,1,BB,Direct,173
+0,0,1,FB,Direct,249
+0,4,2,BB,Online TA,186.5
+0,3,3,BB,Direct,95
+0,73,7,FB,Direct,241.5
+0,44,7,HB,Online TA,177
+0,95,7,FB,Offline TA/TO,153.73
+0,94,7,BB,Direct,115
+1,40,7,HB,Offline TA/TO,127.03
+0,64,7,BB,Direct,128.25
+0,64,7,BB,Direct,128.25
+0,94,7,BB,Direct,115
+0,57,8,HB,Offline TA/TO,135
+1,60,8,HB,Online TA,167
+0,57,8,HB,Offline TA/TO,135
+0,87,14,BB,Online TA,124.5
+0,0,1,BB,Direct,98
+0,0,1,BB,Online TA,98
+0,6,1,BB,Direct,135
+0,0,1,BB,Online TA,88.2
+0,19,1,BB,Online TA,120.6
+0,4,2,BB,Online TA,154.5
+1,59,3,BB,Online TA,145
+0,44,4,BB,Direct,92
+1,37,4,BB,Online TA,154
+0,66,5,BB,Direct,115
+1,38,6,BB,Offline TA/TO,110.53
+1,62,7,HB,Offline TA/TO,158.5
+0,41,7,HB,Online TA,131.37
+1,60,7,BB,Online TA,117.71
+0,104,7,BB,Offline TA/TO,123
+1,62,7,HB,Offline TA/TO,158.5
+0,117,7,BB,Online TA,117.84
+1,31,7,BB,Online TA,154
+0,34,7,BB,Offline TA/TO,116.85
+0,47,6,BB,Online TA,129.16
+1,24,6,BB,Online TA,214
+1,104,6,BB,Online TA,115
+0,104,7,BB,Offline TA/TO,123
+0,32,7,BB,Offline TA/TO,123
+1,47,8,BB,Online TA,195
+0,29,10,BB,Offline TA/TO,135.2
+0,30,14,BB,Offline TA/TO,123
+0,123,6,BB,Online TA,130.5
+0,14,1,BB,Offline TA/TO,123
+1,118,3,BB,Online TA,179.1
+0,0,0,BB,Offline TA/TO,0
+0,0,0,BB,Online TA,0
+0,79,4,BB,Online TA,115
+0,63,4,BB,Online TA,115
+0,68,4,BB,Online TA,103.5
+0,96,4,HB,Direct,157
+1,41,4,BB,Online TA,135
+0,46,4,BB,Online TA,111.65
+1,41,4,BB,Online TA,135
+1,60,5,BB,Online TA,195
+0,41,5,BB,Offline TA/TO,104
+1,69,5,BB,Online TA,135
+1,41,6,BB,Online TA,214
+0,52,6,HB,Direct,133.17
+1,41,6,BB,Online TA,141.33
+0,89,7,BB,Offline TA/TO,121.01
+1,28,7,FB,Direct,240.64
+0,65,7,BB,Online TA,167.5
+0,82,7,HB,Online TA,152.43
+0,42,7,FB,Offline TA/TO,148.34
+0,62,7,HB,Online TA,167
+1,86,7,HB,Direct,172.93
+1,118,7,BB,Online TA,179.1
+0,28,7,FB,Offline TA/TO,192.5
+1,52,9,HB,Offline TA/TO,92
+1,49,9,FB,Offline TA/TO,111.2
+0,39,10,HB,Offline TA/TO,141.6
+0,39,10,HB,Offline TA/TO,141.6
+0,39,10,HB,Offline TA/TO,141.6
+1,7,11,HB,Offline TA/TO,200
+1,7,11,HB,Offline TA/TO,200
+1,42,2,BB,Online TA,157
+0,5,2,BB,Corporate,99.5
+1,81,3,BB,Online TA,115
+1,63,4,BB,Online TA,195
+0,61,4,BB,Online TA,103.5
+0,8,5,BB,Direct,207
+0,89,6,BB,Direct,163.33
+0,57,7,HB,Online TA,151.86
+0,102,7,BB,Offline TA/TO,95.57
+0,108,8,BB,Online TA,112.05
+0,28,9,BB,Direct,160
+0,29,10,BB,Online TA,103.18
+0,0,1,BB,Direct,153
+1,96,4,BB,Online TA,119.75
+1,44,4,BB,Online TA,135
+0,44,4,HB,Online TA,167.69
+1,44,4,BB,Online TA,195
+1,44,4,BB,Online TA,135
+1,41,5,BB,Online TA,178.4
+0,16,0,BB,Online TA,0
+0,73,0,BB,Online TA,0
+0,3,1,BB,Online TA,154
+0,0,1,BB,Direct,134
+1,55,1,BB,Direct,112
+0,33,3,HB,Online TA,194
+1,19,3,BB,Online TA,153
+1,55,3,BB,Online TA,135
+0,33,3,HB,Online TA,184
+1,19,4,BB,Online TA,210
+1,19,4,BB,Direct,139
+0,117,5,BB,Offline TA/TO,101.46
+1,72,6,BB,Online TA,145
+1,19,4,BB,Online TA,173
+0,34,8,HB,Offline TA/TO,217.05
+0,9,2,BB,Online TA,164
+0,8,2,BB,Online TA,173
+1,36,1,BB,Direct,112.5
+0,22,2,BB,Online TA,153
+0,22,2,BB,Online TA,173
+0,22,2,BB,Online TA,153
+0,36,2,BB,Online TA,134
+0,22,2,BB,Online TA,153
+1,22,2,BB,Online TA,233
+0,18,2,BB,Direct,154
+0,8,2,BB,Online TA,173
+1,67,2,BB,Online TA,135
+1,105,2,BB,Offline TA/TO,132.5
+0,1,3,BB,Online TA,222.67
+1,67,2,BB,Online TA,135
+0,39,2,BB,Offline TA/TO,107
+1,45,3,BB,Online TA,127
+1,45,4,BB,Online TA,135
+0,14,4,BB,Online TA,149.7
+1,53,4,BB,Online TA,161.25
+0,28,4,BB,Offline TA/TO,107
+0,55,5,BB,Online TA,75.44
+0,55,5,BB,Online TA,75.44
+0,25,7,BB,Direct,115
+1,43,7,FB,Offline TA/TO,159.2
+1,109,7,HB,Online TA,163.29
+1,62,8,BB,Online TA,210
+0,25,8,BB,Direct,154
+0,43,9,HB,Online TA,166
+0,35,10,BB,Offline TA/TO,132.5
+1,42,10,BB,Offline TA/TO,107
+1,312,14,BB,Offline TA/TO,121.98
+0,30,0,HB,Online TA,0
+0,47,3,HB,Offline TA/TO,133
+0,40,1,BB,Offline TA/TO,107
+0,11,1,BB,Online TA,117.81
+0,39,1,BB,Offline TA/TO,107
+1,39,1,BB,Online TA,120.6
+0,1,2,BB,Direct,147
+1,12,2,BB,Online TA,153
+1,16,2,BB,Online TA,153
+1,16,2,BB,Direct,134
+0,12,2,BB,Online TA,153
+0,51,3,HB,Offline TA/TO,118
+0,67,4,BB,Online TA,134
+0,52,5,HB,Offline TA/TO,135
+0,25,5,HB,Online TA,158.77
+0,94,5,BB,Online TA,134
+1,54,5,BB,Online TA,134
+0,33,5,HB,Online TA,142.03
+0,47,5,HB,Direct,240
+0,43,6,BB,Direct,134
+1,87,6,BB,Online TA,134
+0,54,7,HB,Online TA,147
+0,32,7,BB,Online TA,176
+1,29,7,BB,Online TA,120.6
+1,96,7,HB,Online TA,166
+1,100,7,BB,Online TA,134
+0,54,7,HB,Online TA,147
+0,75,7,HB,Online TA,167
+0,31,7,BB,Offline TA/TO,107.2
+1,25,8,BB,Direct,131.63
+0,61,8,HB,Online TA,233.05
+0,60,8,HB,Online TA,90.12
+1,31,9,BB,Online TA,120.6
+1,107,9,BB,Online TA,125
+1,31,9,BB,Online TA,154
+0,115,10,BB,Online TA,120.6
+0,59,12,BB,Offline TA/TO,114.25
+1,85,14,BB,Offline TA/TO,107
+0,0,7,BB,Online TA,88.55
+1,299,7,BB,Online TA,149
+0,50,7,BB,Direct,195
+1,50,7,BB,Online TA,164
+1,88,4,BB,Online TA,154
+1,116,5,BB,Online TA,120.6
+0,47,3,BB,Online TA,103.5
+0,48,3,BB,Online TA,115
+1,54,6,BB,Online TA,95.02
+1,33,6,BB,Offline TA/TO,132.5
+0,73,5,HB,Direct,209
+1,54,6,BB,Online TA,95.02
+1,33,6,BB,Offline TA/TO,132.5
+0,38,7,HB,Direct,180
+0,34,2,BB,Online TA,103.18
+0,130,7,HB,Direct,174.01
+1,39,8,HB,Offline TA/TO,133
+1,39,8,HB,Offline TA/TO,133
+0,45,7,BB,Offline TA/TO,107.2
+0,31,0,BB,Online TA,0
+1,48,2,BB,Online TA,210
+0,59,2,BB,Online TA,145
+1,48,2,BB,Online TA,195
+1,48,2,HB,Online TA,124.2
+1,48,2,HB,Online TA,167
+0,48,3,BB,Online TA,145
+0,96,3,HB,Online TA,166
+0,51,3,BB,Direct,115
+0,96,3,HB,Online TA,166
+1,41,4,BB,Online TA,120.6
+0,6,4,BB,Direct,162
+0,27,4,BB,Online TA,153
+0,28,4,HB,Offline TA/TO,133.2
+0,30,4,BB,Online TA,134
+0,45,4,BB,Offline TA/TO,107
+0,52,4,HB,Direct,145
+0,31,4,HB,Direct,145
+1,74,4,BB,Offline TA/TO,107
+0,31,4,BB,Offline TA/TO,167.2
+1,87,4,BB,Online TA,134
+0,48,4,BB,Online TA,130
+1,41,4,BB,Online TA,164
+0,35,4,HB,Offline TA/TO,149
+0,28,5,BB,Online TA,154
+0,77,5,BB,Online TA,195
+1,33,5,BB,Online TA,134
+0,30,5,BB,Offline TA/TO,107.2
+1,34,5,HB,Online TA,164
+1,298,6,HB,Offline TA/TO,183.45
+0,35,6,HB,Online TA,159.6
+0,40,6,BB,Online TA,120.6
+1,101,7,BB,Online TA,164
+1,101,7,BB,Online TA,219.43
+1,101,7,BB,Online TA,134
+1,101,7,BB,Online TA,164
+0,38,7,BB,Offline TA/TO,107.2
+0,76,7,BB,Online TA,102.72
+0,70,1,BB,Online TA,114.85
+0,70,1,BB,Online TA,114.85
+0,68,2,BB,Online TA,135
+1,63,3,BB,Online TA,195
+1,11,3,BB,Online TA,173
+0,32,4,BB,Offline TA/TO,107
+0,29,4,BB,Offline TA/TO,107
+0,47,4,BB,Direct,164
+0,50,5,BB,Online TA,138.8
+1,29,5,BB,Online TA,154
+0,36,5,BB,Direct,135
+0,49,6,BB,Online TA,103.18
+1,70,8,BB,Offline TA/TO,115.5
+0,110,10,BB,Offline TA/TO,90.95
+0,8,0,HB,Offline TA/TO,0
+1,119,4,BB,Online TA,108.54
+0,30,4,BB,Online TA,146
+1,29,5,BB,Online TA,165.4
+0,71,5,BB,Online TA,134
+1,37,5,HB,Offline TA/TO,133
+1,40,5,HB,Direct,240
+0,37,5,HB,Direct,157
+0,0,1,BB,Direct,188
+1,37,5,HB,Offline TA/TO,133
+0,37,5,HB,Direct,145
+0,97,5,BB,Online TA,134
+1,71,5,BB,Online TA,134
+1,118,5,HB,Online TA,186
+0,102,7,BB,Offline TA/TO,90.95
+1,54,7,BB,Online TA,141.65
+1,58,7,BB,Online TA,99.24
+0,34,6,BB,Online TA,108.06
+1,105,7,BB,Offline TA/TO,90.95
+1,47,8,BB,Online TA,148.63
+1,15,1,BB,Online TA,173
+0,37,1,BB,Offline TA/TO,107
+1,0,1,BB,Corporate,114
+1,8,1,BB,Online TA,153
+0,17,2,BB,Online TA,153
+0,3,3,HB,Direct,250.33
+1,30,3,BB,Online TA,146.67
+1,31,3,BB,Online TA,154
+1,66,3,BB,Online TA,120.6
+0,52,3,FB,Offline TA/TO,280.74
+0,20,4,BB,Online TA,193
+1,30,3,BB,Online TA,146.67
+1,31,3,BB,Online TA,154
+1,62,4,BB,Online TA,154.5
+1,65,4,BB,Online TA,120.6
+1,64,5,BB,Online TA,137.8
+0,77,9,HB,Direct,160
+0,75,9,BB,Offline TA/TO,125.89
+0,75,9,BB,Offline TA/TO,125.89
+1,62,7,BB,Direct,126.71
+0,42,0,BB,Offline TA/TO,0
+0,46,0,HB,Online TA,0
+0,0,1,BB,Direct,188
+1,25,1,BB,Online TA,153
+1,16,1,BB,Online TA,173
+1,16,1,BB,Online TA,173
+0,16,2,BB,Direct,120
+1,4,2,BB,Online TA,154.8
+0,4,2,BB,Online TA,192
+1,25,2,BB,Online TA,153
+1,83,2,BB,Online TA,120.6
+0,4,2,BB,Online TA,192
+1,56,2,BB,Online TA,120.6
+1,32,2,BB,Online TA,164
+0,32,2,BB,Online TA,219.5
+0,0,2,HB,Online TA,192.5
+1,18,3,BB,Online TA,149.7
+1,23,3,BB,Direct,111.92
+1,39,3,BB,Online TA,120.6
+1,18,3,BB,Online TA,149.7
+1,18,3,BB,Online TA,173
+1,23,3,BB,Online TA,112
+0,286,4,BB,Direct,57.6
+0,72,4,BB,Online TA,214
+1,136,4,BB,Online TA,172
+0,58,5,BB,Online TA,157.8
+0,80,6,BB,Online TA,170.33
+0,113,10,BB,Offline TA/TO,119.25
+0,129,2,BB,Offline TA/TO,96.3
+1,84,3,HB,Offline TA/TO,118.06
+1,84,3,HB,Offline TA/TO,118.06
+1,89,1,BB,Direct,154
+1,10,1,BB,Direct,202
+1,80,1,BB,Online TA,134
+1,10,1,BB,Direct,202
+1,10,1,BB,Direct,252
+1,24,1,BB,Online TA,233
+0,1,1,BB,Online TA,211
+1,9,1,BB,Online TA,211
+1,3,5,HB,Direct,237
+0,3,7,BB,Online TA,188.29
+1,124,6,BB,Online TA,120.6
+1,74,7,BB,Direct,177.14
+1,82,7,BB,Online TA,222.14
+1,91,7,HB,Online TA,127.82
+1,77,7,HB,Online TA,194.14
+1,130,7,BB,Online TA,120.6
+1,91,7,HB,Online TA,144.53
+0,79,7,HB,Direct,185
+1,130,8,BB,Offline TA/TO,96.3
+0,66,8,HB,Online TA,193.13
+1,53,9,HB,Online TA,210.78
+1,80,10,BB,Online TA,169
+1,77,10,BB,Online TA,174.7
+1,57,14,BB,Online TA,135.53
+0,11,14,BB,Offline TA/TO,172
+1,25,1,BB,Online TA,144
+1,2,2,BB,Online TA,162.5
+1,36,5,BB,Online TA,209.6
+1,36,5,BB,Online TA,209.6
+0,115,7,HB,Offline TA/TO,195.5
+0,95,6,HB,Direct,186
+0,67,6,BB,Direct,163.5
+0,60,7,HB,Direct,180.28
+0,34,7,BB,Direct,174.76
+0,78,9,BB,Offline TA/TO,116.85
+0,93,7,FB,Offline TA/TO,159
+1,327,14,BB,Offline TA/TO,104.55
+0,21,0,BB,Direct,0
+0,0,1,BB,Online TA,144.76
+1,47,2,HB,Online TA,205
+1,81,4,BB,Offline TA/TO,123
+1,52,5,BB,Online TA,173
+1,13,5,BB,Offline TA/TO,220.55
+0,83,7,BB,Online TA,162.14
+1,131,7,HB,Offline TA/TO,119.7
+0,460,7,HB,Offline TA/TO,77.54
+1,82,7,BB,Online TA,120.6
+1,61,7,BB,Online TA,153
+0,94,0,BB,Online TA,0
+0,1,0,BB,Online TA,0
+0,0,1,BB,Direct,172
+1,36,3,BB,Direct,221
+1,61,3,BB,Online TA,153
+0,13,4,HB,Direct,230.5
+0,13,4,HB,Direct,230.5
+1,15,4,BB,Online TA,211
+0,14,5,HB,Online TA,241
+1,13,6,BB,Online TA,211
+0,140,7,BB,Offline TA/TO,90.95
+0,6,7,BB,Online TA,188.29
+0,140,7,BB,Offline TA/TO,90.95
+0,81,10,HB,Direct,187.8
+0,1,0,BB,Online TA,0
+0,65,0,HB,Offline TA/TO,0
+1,0,1,BB,Direct,172
+0,2,1,BB,Online TA,171.9
+0,0,1,BB,Direct,200
+1,114,3,HB,Online TA,149.4
+1,111,4,BB,Online TA,154
+0,44,4,BB,Online TA,148.25
+0,139,4,BB,Online TA,172
+1,57,5,BB,Online TA,183
+1,16,5,HB,Online TA,242.6
+0,139,4,BB,Online TA,172
+0,84,7,HB,Online TA,168.71
+1,117,8,HB,Online TA,166
+1,69,1,BB,Direct,112
+0,2,1,BB,Online TA,172
+1,118,3,BB,Online TA,120.6
+0,129,3,BB,Direct,126
+0,9,3,HB,Online TA,268
+0,52,4,BB,Direct,173
+0,65,5,HB,Offline TA/TO,149.2
+0,7,5,HB,Online TA,217.2
+1,28,4,BB,Online TA,239.3
+0,3,6,BB,Online TA,181.5
+0,87,8,BB,Online TA,154
+0,51,8,BB,Online TA,173
+0,136,10,BB,Direct,181.9
+0,4,0,BB,Online TA,0
+0,1,1,BB,Corporate,114
+1,49,2,BB,Online TA,267
+0,4,2,BB,Online TA,226
+1,45,2,BB,Online TA,173
+0,6,2,BB,Online TA,211
+0,4,2,BB,Online TA,191
+1,53,3,BB,Online TA,173
+0,52,3,BB,Direct,173
+1,4,4,BB,Online TA,277.5
+0,98,4,BB,Online TA,134
+1,46,4,BB,Online TA,153
+1,122,4,HB,Online TA,186
+0,83,4,BB,Offline TA/TO,107.2
+0,16,5,BB,Online TA,221
+1,43,6,HB,Online TA,202
+1,73,7,BB,Online TA,169
+0,116,7,BB,Offline TA/TO,133.5
+1,113,7,HB,Offline TA/TO,154.38
+1,113,7,HB,Offline TA/TO,154.38
+0,51,7,HB,Online TA,205
+0,65,9,BB,Online TA,121.39
+0,0,1,BB,Online TA,171.9
+1,87,1,BB,Online TA,164
+1,106,2,BB,Online TA,134
+0,5,2,BB,Online TA,250
+0,98,2,HB,Online TA,208
+1,78,2,BB,Direct,181
+0,4,3,BB,Online TA,172
+0,5,3,BB,Online TA,157.59
+0,3,4,HB,Online TA,211.75
+0,85,4,HB,Online TA,246
+1,137,4,BB,Online TA,108.54
+1,67,6,HB,Online TA,186
+1,54,7,HB,Online TA,205
+1,87,7,BB,Online TA,154
+1,54,7,HB,Direct,200.71
+0,12,7,BB,Offline TA/TO,252
+1,60,7,BB,Offline TA/TO,135.2
+0,75,7,FB,Direct,276.43
+1,54,7,HB,Direct,228
+0,126,7,HB,Offline TA/TO,133
+1,54,7,HB,Online TA,205
+1,84,7,BB,Online TA,134
+1,106,7,HB,Offline TA/TO,119.7
+0,136,7,BB,Offline TA/TO,90.95
+0,98,7,HB,Offline TA/TO,138
+1,91,7,BB,Online TA,134
+1,58,8,BB,Direct,173
+0,61,13,BB,Online TA,165.69
+0,0,1,BB,Direct,195
+0,5,1,BB,Online TA,127.31
+0,2,1,BB,Online TA,134
+1,9,2,BB,Direct,207
+1,10,2,BB,Online TA,211.5
+0,62,3,BB,Online TA,210.33
+0,34,4,BB,Online TA,211
+0,82,4,BB,Online TA,154
+1,65,5,BB,Online TA,145.4
+1,129,5,BB,Online TA,101.25
+0,55,6,HB,Online TA,179.38
+1,122,6,HB,Online TA,166
+1,41,6,BB,Online TA,202
+1,41,6,BB,Online TA,172
+0,81,6,FB,Direct,277
+0,59,7,BB,Offline TA/TO,104
+0,72,7,HB,Offline TA/TO,133
+1,68,7,BB,Online TA,214
+0,81,7,HB,Offline TA/TO,130
+1,72,7,BB,Online TA,154
+0,68,7,BB,Offline TA/TO,106.4
+1,127,14,HB,Offline TA/TO,133
+1,127,14,HB,Offline TA/TO,120
+0,5,0,HB,Online TA,0
+0,68,3,HB,Offline TA/TO,254
+1,47,3,BB,Online TA,192
+0,19,3,BB,Online TA,221
+1,72,2,BB,Online TA,120.6
+0,30,3,BB,Online TA,211
+1,139,5,BB,Online TA,147.6
+0,112,5,BB,Offline TA/TO,129
+1,63,5,HB,Online TA,205
+0,35,6,BB,Online TA,147.07
+1,75,6,HB,Offline TA/TO,107.2
+0,136,6,BB,Online TA,179.1
+0,35,6,BB,Online TA,164.65
+1,63,6,BB,Direct,200
+1,77,6,BB,Online TA,134
+0,62,7,BB,Online TA,233
+1,95,7,BB,Direct,190
+1,101,7,HB,Online TA,196
+1,38,7,BB,Online TA,185.57
+1,60,8,BB,Direct,175
+1,60,8,BB,Direct,175
+0,76,11,HB,Direct,169
+0,90,0,BB,Online TA,0
+0,90,0,BB,Online TA,0
+1,87,2,BB,Direct,134
+1,31,2,BB,Online TA,211
+1,74,2,BB,Direct,134
+1,120,3,BB,Online TA,120.6
+1,120,3,BB,Online TA,120.6
+1,120,3,BB,Online TA,112.5
+1,116,4,BB,Online TA,164
+1,83,4,BB,Online TA,120.6
+0,80,4,BB,Online TA,154
+1,27,4,BB,Direct,207
+1,78,5,BB,Online TA,214
+1,117,5,HB,Offline TA/TO,186
+0,70,5,BB,Online TA,154
+1,85,5,BB,Online TA,162.3
+1,117,5,HB,Offline TA/TO,186
+1,22,6,HB,Online TA,241
+1,34,7,HB,Online TA,274.93
+0,68,7,HB,Online TA,156.73
+1,69,7,HB,Online TA,156.73
+1,85,5,BB,Online TA,134
+1,102,5,BB,Online TA,134
+0,31,7,BB,Online TA,211
+0,49,10,FB,Offline TA/TO,200.7
+0,84,10,BB,Offline TA/TO,142.26
+1,102,12,HB,Online TA,196
+0,66,12,BB,Online TA,129.41
+1,80,7,BB,Online TA,98.02
+1,85,7,BB,Online TA,120.6
+1,33,1,BB,Groups,191
+1,1,1,BB,Direct,191
+0,33,1,BB,Groups,252
+0,47,3,HB,Online TA,157.08
+1,2,3,BB,Online TA,258.33
+1,22,4,BB,Online TA,211
+1,22,4,BB,Online TA,211
+1,55,7,BB,Online TA,133.21
+1,68,8,BB,Online TA,173.5
+1,128,10,BB,Offline TA/TO,90.95
+0,128,10,BB,Offline TA/TO,90.95
+0,128,10,BB,Offline TA/TO,90.95
+0,78,5,BB,Online TA,134
+1,85,14,BB,Online TA,120.6
+0,0,1,BB,Online TA,172
+0,9,1,BB,Corporate,184.45
+0,1,1,BB,Corporate,158
+1,9,1,BB,Corporate,184.45
+1,120,2,BB,Online TA,120.6
+1,72,3,BB,Online TA,114.14
+0,23,3,BB,Offline TA/TO,168.8
+1,8,3,BB,Direct,178.33
+0,47,3,HB,Online TA,255
+1,8,3,BB,Direct,178.33
+0,135,4,HB,Online TA,196
+0,76,4,BB,Online TA,87.91
+1,15,5,BB,Direct,211
+1,23,5,BB,Online TA,187.2
+0,87,5,BB,Online TA,154
+0,19,5,HB,Online TA,243
+0,21,5,BB,Direct,222.2
+0,19,5,HB,Online TA,243
+1,23,5,BB,Online TA,178.2
+1,89,7,BB,Offline TA/TO,107.2
+0,51,0,BB,Online TA,0
+0,0,1,BB,Direct,203
+0,0,1,BB,Direct,173
+0,0,1,BB,Online TA,172
+0,0,1,BB,Online TA,120.6
+0,0,1,BB,Online TA,172
+0,38,2,HB,Online TA,266.4
+0,21,2,BB,Online TA,236
+1,34,2,BB,Online TA,271
+1,51,2,HB,Online TA,232
+0,38,2,HB,Online TA,223
+0,0,3,BB,Online TA,178.67
+1,84,4,HB,Offline TA/TO,133
+1,63,4,HB,Online TA,195.5
+0,7,4,BB,Direct,167.25
+1,91,4,HB,Direct,209
+0,81,5,BB,Online TA,166
